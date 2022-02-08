@@ -8,6 +8,8 @@
 }
 .p{
 	align-self : center;
+        background-color:black;
+        color: white;
 }
 .table{
 	color: black;
