@@ -9,19 +9,19 @@
 	align-self : center;
 }
 .table{
-	color: white;
+	color: green;
 	text-align:center;
-	background-color: green;
+	background-color: white;
 }
 .edu{
 	color: #ffffff;
-	background-color: green;
+	background-color: white;
 }
 .social{
 	text-align:center;
-	background-color: green;
+	background-color: white;
 	font-size: 42px;
 }
 a{
-	color:white;
+	color:green;
 }
